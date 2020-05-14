@@ -9,6 +9,7 @@ class App extends Component {
       <div>
         <Home />
         <War />
+        <DragonForm />
       </div>
     );
   }
