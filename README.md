@@ -13,6 +13,7 @@ This will start an api available at `http://localhost:3001/dragons`, and an app 
 2. Render the dragon names and images inside of the `<Home />` Component (You may want to set a width of the images to keep things tidy)
 3. When a user clicks a dragon, it should move the dragon inside the `<War />` Component
 4. If a user clicks a dragon at war, it should move back inside the `<Home />` Component
+5. When a user submits the `<DragonForm/>` Component, the dragon should be added to the `<Home/>` Component
 
 ## BONUS
 1. Add a search box to the Home div which will filter the dragons based on their name
